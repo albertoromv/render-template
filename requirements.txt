@@ -1,1 +1,9 @@
-fastapi[all]
+fastapi
+uvicorn[standard]
+databases[aiosqlite]
+python-dotenv
+sqlalchemy
+datetime
+greenlet
+pydantic-settings
+mypy
